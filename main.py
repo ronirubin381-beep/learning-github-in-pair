@@ -2,8 +2,8 @@
 print(" Hello Enter your  name: ")
 
 #2
-print(" lion ")
-
+print(" tiger ")
+print("lion")
 
 
 """
